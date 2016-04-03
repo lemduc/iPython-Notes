@@ -1,0 +1,28 @@
+Comparison distance is: 1
+SysEvo from clusteredpdfbox-1.0.0_acdc_clustered.rsf to clusteredpdfbox-1.1.0_acdc_clustered.rsf: 98.17957420549213
+SysEvo from clusteredpdfbox-1.1.0_acdc_clustered.rsf to clusteredpdfbox-1.2.0_acdc_clustered.rsf: 95.00306560392397
+SysEvo from clusteredpdfbox-1.2.0_acdc_clustered.rsf to clusteredpdfbox-1.2.1_acdc_clustered.rsf: 100.0
+SysEvo from clusteredpdfbox-1.2.1_acdc_clustered.rsf to clusteredpdfbox-1.3.1_acdc_clustered.rsf: 98.53300733496333
+SysEvo from clusteredpdfbox-1.3.1_acdc_clustered.rsf to clusteredpdfbox-1.4.0_acdc_clustered.rsf: 98.79843796936017
+SysEvo from clusteredpdfbox-1.4.0_acdc_clustered.rsf to clusteredpdfbox-1.5.0_acdc_clustered.rsf: 99.70291146761735
+SysEvo from clusteredpdfbox-1.5.0_acdc_clustered.rsf to clusteredpdfbox-1.6.0_acdc_clustered.rsf: 98.1759340982642
+SysEvo from clusteredpdfbox-1.6.0_acdc_clustered.rsf to clusteredpdfbox-1.7.0_acdc_clustered.rsf: 86.89578094439787
+SysEvo from clusteredpdfbox-1.7.0_acdc_clustered.rsf to clusteredpdfbox-1.7.1_acdc_clustered.rsf: 99.78552278820375
+SysEvo from clusteredpdfbox-1.7.1_acdc_clustered.rsf to clusteredpdfbox-1.8.0_acdc_clustered.rsf: 97.74535809018568
+SysEvo from clusteredpdfbox-1.8.0_acdc_clustered.rsf to clusteredpdfbox-1.8.1_acdc_clustered.rsf: 99.9737532808399
+SysEvo from clusteredpdfbox-1.8.1_acdc_clustered.rsf to clusteredpdfbox-1.8.2_acdc_clustered.rsf: 99.81656184486373
+SysEvo from clusteredpdfbox-1.8.2_acdc_clustered.rsf to clusteredpdfbox-1.8.3_acdc_clustered.rsf: 97.29448491155047
+SysEvo from clusteredpdfbox-1.8.3_acdc_clustered.rsf to clusteredpdfbox-1.8.4_acdc_clustered.rsf: 99.84480082772892
+SysEvo from clusteredpdfbox-1.8.4_acdc_clustered.rsf to clusteredpdfbox-1.8.5_acdc_clustered.rsf: 97.87506400409626
+SysEvo from clusteredpdfbox-1.8.5_acdc_clustered.rsf to clusteredpdfbox-1.8.6_acdc_clustered.rsf: 97.89050728277248
+DescriptiveStatistics:
+n: 16
+min: 86.89578094439787
+max: 100.0
+mean: 97.84467279089127
+std dev: 3.2058399990146085
+median: 98.35629077022773
+skewness: -2.9722545268424354
+kurtosis: 10.003166825759514
+
+

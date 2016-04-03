@@ -1,0 +1,17 @@
+Comparison distance is: 1
+SysEvo from REL.3.8.0REL_3_8_0_acdc_clustered.rsf to REL.3.8.21REL_3_8_21_acdc_clustered.rsf: 95.14731369150779
+SysEvo from REL.3.8.21REL_3_8_21_acdc_clustered.rsf to REL.3.8.22REL_3_8_22_acdc_clustered.rsf: 99.92846924177397
+SysEvo from REL.3.8.22REL_3_8_22_acdc_clustered.rsf to REL.3.8.23REL_3_8_23_acdc_clustered.rsf: 99.09526343799894
+SysEvo from REL.3.8.23REL_3_8_23_acdc_clustered.rsf to REL.3.8.24REL_3_8_24_acdc_clustered.rsf: 97.4751871843984
+SysEvo from REL.3.8.24REL_3_8_24_acdc_clustered.rsf to REL.3.8.25REL_3_8_25_acdc_clustered.rsf: 98.34414475930352
+DescriptiveStatistics:
+n: 5
+min: 95.14731369150779
+max: 99.92846924177397
+mean: 97.99807566299653
+std dev: 1.8337298315970427
+median: 98.34414475930352
+skewness: -0.9970574678296267
+kurtosis: 1.0067213204062693
+
+

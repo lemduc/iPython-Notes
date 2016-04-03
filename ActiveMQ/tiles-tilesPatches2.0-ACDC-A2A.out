@@ -1,0 +1,19 @@
+Comparison distance is: 1
+SysEvo from tiles-2.0.0tiles-2.0.0_acdc_clustered.rsf to tiles-2.0.1tiles-2.0.1_acdc_clustered.rsf: 94.6949602122016
+SysEvo from tiles-2.0.1tiles-2.0.1_acdc_clustered.rsf to tiles-2.0.2tiles-2.0.2_acdc_clustered.rsf: 76.60818713450293
+SysEvo from tiles-2.0.2tiles-2.0.2_acdc_clustered.rsf to tiles-2.0.3tiles-2.0.3_acdc_clustered.rsf: 100.0
+SysEvo from tiles-2.0.3tiles-2.0.3_acdc_clustered.rsf to tiles-2.0.4tiles-2.0.4_acdc_clustered.rsf: 76.43312101910828
+SysEvo from tiles-2.0.4tiles-2.0.4_acdc_clustered.rsf to tiles-2.0.5tiles-2.0.5_acdc_clustered.rsf: 98.92966360856269
+SysEvo from tiles-2.0.5tiles-2.0.5_acdc_clustered.rsf to tiles-2.0.6tiles-2.0.6_acdc_clustered.rsf: 98.05389221556887
+SysEvo from tiles-2.0.6tiles-2.0.6_acdc_clustered.rsf to tiles-2.0.7tiles-2.0.7_acdc_clustered.rsf: 98.23008849557522
+DescriptiveStatistics:
+n: 7
+min: 76.43312101910828
+max: 100.0
+mean: 91.8499875265028
+std dev: 10.59736413918093
+median: 98.05389221556887
+skewness: -1.134669172707263
+kurtosis: -0.9380759757368731
+
+

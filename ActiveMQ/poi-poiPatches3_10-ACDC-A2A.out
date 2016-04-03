@@ -1,0 +1,13 @@
+Comparison distance is: 1
+SysEvo from REL.3.10.FINALREL_3_10_FINAL_acdc_clustered.rsf to REL.3.10.1REL_3_10_1_acdc_clustered.rsf: 99.9681224099458
+DescriptiveStatistics:
+n: 1
+min: 99.9681224099458
+max: 99.9681224099458
+mean: 99.9681224099458
+std dev: 0.0
+median: 99.9681224099458
+skewness: NaN
+kurtosis: NaN
+
+

@@ -1,0 +1,16 @@
+Comparison distance is: 1
+SysEvo from 8.0.3098.0.309_acdc_clustered.rsf to 8.1.4048.1.404_acdc_clustered.rsf: 91.56010230179028
+SysEvo from 8.1.4048.1.404_acdc_clustered.rsf to 8.2.5048.2.504_acdc_clustered.rsf: 95.0510604870385
+SysEvo from 8.2.5048.2.504_acdc_clustered.rsf to 8.3.6038.3.603_acdc_clustered.rsf: 97.16692189892802
+SysEvo from 8.3.6038.3.603_acdc_clustered.rsf to 8.4.7018.4.701_acdc_clustered.rsf: 92.88793103448276
+DescriptiveStatistics:
+n: 4
+min: 91.56010230179028
+max: 97.16692189892802
+mean: 94.16650393055988
+std dev: 2.4639417192479467
+median: 93.96949576076062
+skewness: 0.35239941760417304
+kurtosis: -1.6995669942248472
+
+

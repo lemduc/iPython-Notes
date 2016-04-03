@@ -1,0 +1,14 @@
+Comparison distance is: 1
+SysEvo from tiles-2.0.0tiles-2.0.0_acdc_clustered.rsf to tiles-2.1.0tiles-2.1.0_acdc_clustered.rsf: 43.07270233196159
+SysEvo from tiles-2.1.0tiles-2.1.0_acdc_clustered.rsf to tiles-2.2.0tiles-2.2.0_acdc_clustered.rsf: 73.17073170731707
+DescriptiveStatistics:
+n: 2
+min: 43.07270233196159
+max: 73.17073170731707
+mean: 58.121717019639334
+std dev: 21.28252067166577
+median: 58.121717019639334
+skewness: NaN
+kurtosis: NaN
+
+

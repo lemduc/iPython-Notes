@@ -1,0 +1,14 @@
+Comparison distance is: 1
+SysEvo from 2.0.02.0.0_acdc_clustered.rsf to 2.1.02.1.0_acdc_clustered.rsf: 93.59214218896165
+SysEvo from 2.1.02.1.0_acdc_clustered.rsf to 2.2.02.2.0_acdc_clustered.rsf: 98.63760217983652
+DescriptiveStatistics:
+n: 2
+min: 93.59214218896165
+max: 98.63760217983652
+mean: 96.11487218439908
+std dev: 3.56767897375304
+median: 96.11487218439908
+skewness: NaN
+kurtosis: NaN
+
+

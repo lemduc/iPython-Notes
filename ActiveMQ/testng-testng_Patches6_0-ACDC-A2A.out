@@ -1,0 +1,13 @@
+Comparison distance is: 1
+SysEvo from 6.0.16.0.1_acdc_clustered.rsf to 6.06.0_acdc_clustered.rsf: 99.02830587241233
+DescriptiveStatistics:
+n: 1
+min: 99.02830587241233
+max: 99.02830587241233
+mean: 99.02830587241233
+std dev: 0.0
+median: 99.02830587241233
+skewness: NaN
+kurtosis: NaN
+
+

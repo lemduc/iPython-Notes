@@ -1,0 +1,19 @@
+Comparison distance is: 1
+SysEvo from 6.9.06.9.0_acdc_clustered.rsf to 6.9.16.9.1_acdc_clustered.rsf: 100.0
+SysEvo from 6.9.16.9.1_acdc_clustered.rsf to 6.9.26.9.2_acdc_clustered.rsf: 100.0
+SysEvo from 6.9.26.9.2_acdc_clustered.rsf to 6.9.36.9.3_acdc_clustered.rsf: 100.0
+SysEvo from 6.9.36.9.3_acdc_clustered.rsf to 6.9.46.9.4_acdc_clustered.rsf: 100.0
+SysEvo from 6.9.46.9.4_acdc_clustered.rsf to 6.9.56.9.5_acdc_clustered.rsf: 99.34333958724203
+SysEvo from 6.9.56.9.5_acdc_clustered.rsf to 6.9.76.9.7_acdc_clustered.rsf: 99.28571428571429
+SysEvo from 6.9.76.9.7_acdc_clustered.rsf to 6.9.86.9.8_acdc_clustered.rsf: 100.0
+DescriptiveStatistics:
+n: 7
+min: 99.28571428571429
+max: 100.0
+mean: 99.80415055327947
+std dev: 0.33489001648575173
+median: 100.0
+skewness: -1.2402372002115347
+kurtosis: -0.7738163724100913
+
+

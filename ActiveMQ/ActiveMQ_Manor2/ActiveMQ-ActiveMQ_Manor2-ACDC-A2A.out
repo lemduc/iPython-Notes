@@ -1,0 +1,13 @@
+Comparison distance is: 1
+SysEvo from clustersactivemq-2.0_acdc_clustered.rsf to clustersactivemq-2.1_acdc_clustered.rsf: 96.08791208791209
+DescriptiveStatistics:
+n: 1
+min: 96.08791208791209
+max: 96.08791208791209
+mean: 96.08791208791209
+std dev: 0.0
+median: 96.08791208791209
+skewness: NaN
+kurtosis: NaN
+
+

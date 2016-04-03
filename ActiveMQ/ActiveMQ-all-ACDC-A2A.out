@@ -1,0 +1,35 @@
+Comparison distance is: 1
+SysEvo from clustersactivemq-1.0_acdc_clustered.rsf to clustersactivemq-1.1_acdc_clustered.rsf: 87.98665183537264
+SysEvo from clustersactivemq-1.1_acdc_clustered.rsf to clustersactivemq-1.2_acdc_clustered.rsf: 85.90827568537023
+SysEvo from clustersactivemq-1.2_acdc_clustered.rsf to clustersactivemq-1.3_acdc_clustered.rsf: 99.69119917653114
+SysEvo from clustersactivemq-1.3_acdc_clustered.rsf to clustersactivemq-1.4_acdc_clustered.rsf: 99.66529351184346
+SysEvo from clustersactivemq-1.4_acdc_clustered.rsf to clustersactivemq-1.5_acdc_clustered.rsf: 99.97421351211965
+SysEvo from clustersactivemq-1.5_acdc_clustered.rsf to clustersactivemq-2.0_acdc_clustered.rsf: 83.43251606760296
+SysEvo from clustersactivemq-2.0_acdc_clustered.rsf to clustersactivemq-2.1_acdc_clustered.rsf: 96.08791208791209
+SysEvo from clustersactivemq-2.1_acdc_clustered.rsf to clustersactivemq-3.0_acdc_clustered.rsf: 56.16883116883117
+SysEvo from clustersactivemq-3.0_acdc_clustered.rsf to clustersactivemq-3.1_acdc_clustered.rsf: 95.76520767746521
+SysEvo from clustersactivemq-3.1_acdc_clustered.rsf to clustersactivemq-3.1.0.1_acdc_clustered.rsf: 97.42247281514297
+SysEvo from clustersactivemq-3.1.0.1_acdc_clustered.rsf to clustersactivemq-3.1.0.2_acdc_clustered.rsf: 99.366506590375
+SysEvo from clustersactivemq-3.1.0.2_acdc_clustered.rsf to clustersactivemq-3.1.0.3_acdc_clustered.rsf: 99.7352881286907
+SysEvo from clustersactivemq-3.1.0.3_acdc_clustered.rsf to clustersactivemq-3.1.0.4_acdc_clustered.rsf: 99.50263905805927
+SysEvo from clustersactivemq-3.1.0.4_acdc_clustered.rsf to clustersactivemq-3.1.0.5_acdc_clustered.rsf: 99.8179243374469
+SysEvo from clustersactivemq-3.1.0.5_acdc_clustered.rsf to clustersactivemq-3.1.0.6_acdc_clustered.rsf: 99.91922455573506
+SysEvo from clustersactivemq-3.1.0.6_acdc_clustered.rsf to clustersactivemq-3.2_acdc_clustered.rsf: 98.24666268180913
+SysEvo from clustersactivemq-3.2_acdc_clustered.rsf to clustersactivemq-3.2.0.1_acdc_clustered.rsf: 99.88198269079464
+SysEvo from clustersactivemq-3.2.0.1_acdc_clustered.rsf to clustersactivemq-3.2.1_acdc_clustered.rsf: 99.89181746656176
+SysEvo from clustersactivemq-3.2.1_acdc_clustered.rsf to clustersactivemq-3.2.2_acdc_clustered.rsf: 99.89181746656176
+SysEvo from clustersactivemq-3.2.2_acdc_clustered.rsf to clustersactivemq-3.2.3_acdc_clustered.rsf: 99.87219819111286
+SysEvo from clustersactivemq-3.2.3_acdc_clustered.rsf to clustersactivemq-4.0.0.1_acdc_clustered.rsf: 67.61137440758293
+SysEvo from clustersactivemq-4.0.0.1_acdc_clustered.rsf to clustersactivemq-4.0.0.2_acdc_clustered.rsf: 97.14234524769327
+SysEvo from clustersactivemq-4.0.0.2_acdc_clustered.rsf to clustersactivemq-4.0.0.3_acdc_clustered.rsf: 100.0
+DescriptiveStatistics:
+n: 23
+min: 56.16883116883117
+max: 100.0
+mean: 94.04271105915717
+std dev: 11.328687544626721
+median: 99.50263905805927
+skewness: -2.469535882930215
+kurtosis: 5.896312255178696
+
+

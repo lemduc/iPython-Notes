@@ -1,0 +1,19 @@
+Comparison distance is: 1
+SysEvo from clustersactivemq-1.0_acdc_clustered.rsf to clustersactivemq-1.1_acdc_clustered.rsf: 87.98665183537264
+SysEvo from clustersactivemq-1.1_acdc_clustered.rsf to clustersactivemq-1.2_acdc_clustered.rsf: 85.90827568537023
+SysEvo from clustersactivemq-1.2_acdc_clustered.rsf to clustersactivemq-1.3_acdc_clustered.rsf: 99.69119917653114
+SysEvo from clustersactivemq-1.3_acdc_clustered.rsf to clustersactivemq-1.4_acdc_clustered.rsf: 99.66529351184346
+SysEvo from clustersactivemq-1.4_acdc_clustered.rsf to clustersactivemq-1.5_acdc_clustered.rsf: 99.97421351211965
+SysEvo from clustersactivemq-1.5_acdc_clustered.rsf to clustersactivemq-2.0_acdc_clustered.rsf: 83.43251606760296
+SysEvo from clustersactivemq-2.0_acdc_clustered.rsf to clustersactivemq-2.1_acdc_clustered.rsf: 96.08791208791209
+DescriptiveStatistics:
+n: 7
+min: 83.43251606760296
+max: 99.97421351211965
+mean: 93.24943741096459
+std dev: 7.233032655942429
+median: 96.08791208791209
+skewness: -0.3879048685445966
+kurtosis: -2.2482273923081832
+
+

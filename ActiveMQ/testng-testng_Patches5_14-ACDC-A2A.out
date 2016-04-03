@@ -1,0 +1,14 @@
+Comparison distance is: 1
+SysEvo from 5.14.75.14.7_acdc_clustered.rsf to 5.14.95.14.9_acdc_clustered.rsf: 100.0
+SysEvo from 5.14.95.14.9_acdc_clustered.rsf to 5.14.105.14.10_acdc_clustered.rsf: 99.65870307167235
+DescriptiveStatistics:
+n: 2
+min: 99.65870307167235
+max: 100.0
+mean: 99.82935153583617
+std dev: 0.24133337241862113
+median: 99.82935153583617
+skewness: NaN
+kurtosis: NaN
+
+

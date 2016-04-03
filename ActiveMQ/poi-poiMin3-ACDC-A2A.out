@@ -1,0 +1,20 @@
+Comparison distance is: 1
+SysEvo from REL.3.7.BETA1REL_3_7_BETA1_acdc_clustered.rsf to REL.3.7.BETA2REL_3_7_BETA2_acdc_clustered.rsf: 99.83277591973244
+SysEvo from REL.3.7.BETA2REL_3_7_BETA2_acdc_clustered.rsf to REL.3.7.BETA3REL_3_7_BETA3_acdc_clustered.rsf: 99.55588452997779
+SysEvo from REL.3.7.BETA3REL_3_7_BETA3_acdc_clustered.rsf to REL.3.7REL_3_7_acdc_clustered.rsf: 99.52170713760118
+SysEvo from REL.3.7REL_3_7_acdc_clustered.rsf to REL.3.8.FINALREL_3_8_FINAL_acdc_clustered.rsf: 71.79936864258156
+SysEvo from REL.3.8.FINALREL_3_8_FINAL_acdc_clustered.rsf to REL.3.9REL_3_9_acdc_clustered.rsf: 99.12897822445561
+SysEvo from REL.3.9REL_3_9_acdc_clustered.rsf to REL.3.10.FINALREL_3_10_FINAL_acdc_clustered.rsf: 95.90605121513619
+SysEvo from REL.3.10.FINALREL_3_10_FINAL_acdc_clustered.rsf to REL.3.12.FINALREL_3_12_FINAL_acdc_clustered.rsf: 95.14578163771712
+SysEvo from REL.3.12.FINALREL_3_12_FINAL_acdc_clustered.rsf to REL.3.13.FINALREL_3_13_FINAL_acdc_clustered.rsf: 89.19851013932956
+DescriptiveStatistics:
+n: 8
+min: 71.79936864258156
+max: 99.83277591973244
+mean: 93.76113218081643
+std dev: 9.577477425460696
+median: 97.5175147197959
+skewness: -2.1487990362498657
+kurtosis: 4.77802393269862
+
+

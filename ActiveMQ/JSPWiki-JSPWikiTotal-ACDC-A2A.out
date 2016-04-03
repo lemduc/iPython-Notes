@@ -1,0 +1,65 @@
+Comparison distance is: 1
+SysEvo from clustered1.4.0.3.0_acdc_clustered.rsf to clustered1.5.0.3.0_acdc_clustered.rsf: 98.58156028368793
+SysEvo from clustered1.5.0.3.0_acdc_clustered.rsf to clustered1.5.5.0.1_acdc_clustered.rsf: 94.0
+SysEvo from clustered1.5.5.0.1_acdc_clustered.rsf to clustered1.5.7.0.1_acdc_clustered.rsf: 98.74213836477988
+SysEvo from clustered1.5.7.0.1_acdc_clustered.rsf to clustered1.6.11.0.1_acdc_clustered.rsf: 71.75
+SysEvo from clustered1.6.11.0.1_acdc_clustered.rsf to clustered1.6.12.0.1_acdc_clustered.rsf: 96.875
+SysEvo from clustered1.6.12.0.1_acdc_clustered.rsf to clustered1.7.0.3.0_acdc_clustered.rsf: 96.34146341463415
+SysEvo from clustered1.7.0.3.0_acdc_clustered.rsf to clustered1.8.0.3.0_acdc_clustered.rsf: 91.6044776119403
+SysEvo from clustered1.8.0.3.0_acdc_clustered.rsf to clustered1.8.2.3.0_acdc_clustered.rsf: 100.0
+SysEvo from clustered1.8.2.3.0_acdc_clustered.rsf to clustered2.2.13.0.1_acdc_clustered.rsf: 33.175728920409775
+SysEvo from clustered2.2.13.0.1_acdc_clustered.rsf to clustered2.2.14.0.1_acdc_clustered.rsf: 95.4868154158215
+SysEvo from clustered2.2.14.0.1_acdc_clustered.rsf to clustered2.2.16.0.1_acdc_clustered.rsf: 99.89868287740629
+SysEvo from clustered2.2.16.0.1_acdc_clustered.rsf to clustered2.2.19.3.0_acdc_clustered.rsf: 99.89858012170384
+SysEvo from clustered2.2.19.3.0_acdc_clustered.rsf to clustered2.2.20.3.0_acdc_clustered.rsf: 100.0
+SysEvo from clustered2.2.20.3.0_acdc_clustered.rsf to clustered2.2.26.0.1_acdc_clustered.rsf: 93.3768188660311
+SysEvo from clustered2.2.26.0.1_acdc_clustered.rsf to clustered2.2.28.3.0_acdc_clustered.rsf: 99.00695134061569
+SysEvo from clustered2.2.28.3.0_acdc_clustered.rsf to clustered2.2.33.3.0_acdc_clustered.rsf: 96.89655172413794
+SysEvo from clustered2.2.33.3.0_acdc_clustered.rsf to clustered2.3.50.0.1_acdc_clustered.rsf: 73.88790035587189
+SysEvo from clustered2.3.50.0.1_acdc_clustered.rsf to clustered2.4.0.0.1_acdc_clustered.rsf: 91.87250996015936
+SysEvo from clustered2.4.0.0.1_acdc_clustered.rsf to clustered2.4.15.0.1_acdc_clustered.rsf: 95.03247993886129
+SysEvo from clustered2.4.15.0.1_acdc_clustered.rsf to clustered2.4.56.3.0_acdc_clustered.rsf: 93.8167096061833
+SysEvo from clustered2.4.56.3.0_acdc_clustered.rsf to clustered2.4.69.3.0_acdc_clustered.rsf: 97.94668587896254
+SysEvo from clustered2.4.69.3.0_acdc_clustered.rsf to clustered2.4.71.3.0_acdc_clustered.rsf: 100.0
+SysEvo from clustered2.4.71.3.0_acdc_clustered.rsf to clustered2.4.87.3.0_acdc_clustered.rsf: 98.92395982783357
+SysEvo from clustered2.4.87.3.0_acdc_clustered.rsf to clustered2.4.100.3.0_acdc_clustered.rsf: 98.04409672830725
+SysEvo from clustered2.4.100.3.0_acdc_clustered.rsf to clustered2.4.102.3.0_acdc_clustered.rsf: 100.0
+SysEvo from clustered2.4.102.3.0_acdc_clustered.rsf to clustered2.4.103.3.0_acdc_clustered.rsf: 100.0
+SysEvo from clustered2.4.103.3.0_acdc_clustered.rsf to clustered2.4.104.3.0_acdc_clustered.rsf: 100.0
+SysEvo from clustered2.4.104.3.0_acdc_clustered.rsf to clustered2.5.79.1.1_acdc_clustered.rsf: 83.33333333333334
+SysEvo from clustered2.5.79.1.1_acdc_clustered.rsf to clustered2.5.93.0.1_acdc_clustered.rsf: 88.72180451127821
+SysEvo from clustered2.5.93.0.1_acdc_clustered.rsf to clustered2.5.124.0.1_acdc_clustered.rsf: 99.58046149235841
+SysEvo from clustered2.5.124.0.1_acdc_clustered.rsf to clustered2.5.139.0.1_acdc_clustered.rsf: 98.21162444113264
+SysEvo from clustered2.5.139.0.1_acdc_clustered.rsf to clustered2.6.0.2.1_acdc_clustered.rsf: 99.85172004744959
+SysEvo from clustered2.6.0.2.1_acdc_clustered.rsf to clustered2.6.0.3.0_acdc_clustered.rsf: 99.91108476585654
+SysEvo from clustered2.6.0.3.0_acdc_clustered.rsf to clustered2.6.1.3.0_acdc_clustered.rsf: 99.73341232227489
+SysEvo from clustered2.6.1.3.0_acdc_clustered.rsf to clustered2.6.2.3.0_acdc_clustered.rsf: 99.91124260355029
+SysEvo from clustered2.6.2.3.0_acdc_clustered.rsf to clustered2.6.3.3.0_acdc_clustered.rsf: 100.0
+SysEvo from clustered2.6.3.3.0_acdc_clustered.rsf to clustered2.8.0.0.1_acdc_clustered.rsf: 90.08582420834567
+SysEvo from clustered2.8.0.0.1_acdc_clustered.rsf to clustered2.8.0.1.1_acdc_clustered.rsf: 99.11216336194141
+SysEvo from clustered2.8.0.1.1_acdc_clustered.rsf to clustered2.8.0.3.0_acdc_clustered.rsf: 99.11216336194141
+SysEvo from clustered2.8.0.3.0_acdc_clustered.rsf to clustered2.8.1.3.0_acdc_clustered.rsf: 99.61583924349881
+SysEvo from clustered2.8.1.3.0_acdc_clustered.rsf to clustered2.8.2.3.0_acdc_clustered.rsf: 99.55921245959448
+SysEvo from clustered2.8.2.3.0_acdc_clustered.rsf to clustered2.8.3.3.0_acdc_clustered.rsf: 98.86792452830188
+SysEvo from clustered2.8.3.3.0_acdc_clustered.rsf to clustered2.8.4.3.0_acdc_clustered.rsf: 99.94246260069045
+SysEvo from clustered2.8.4.3.0_acdc_clustered.rsf to clustered2.9.0.2.1_acdc_clustered.rsf: 98.79379666858128
+SysEvo from clustered2.9.0.2.1_acdc_clustered.rsf to clustered2.9.0.3.0_acdc_clustered.rsf: 100.0
+SysEvo from clustered2.9.0.3.0_acdc_clustered.rsf to clustered2.9.0.4.1_acdc_clustered.rsf: 97.88812785388129
+SysEvo from clustered2.9.0.4.1_acdc_clustered.rsf to clustered2.9.0.4.2_acdc_clustered.rsf: 97.88812785388129
+SysEvo from clustered2.9.0.4.2_acdc_clustered.rsf to clustered2.9.0.4.3_acdc_clustered.rsf: 97.88812785388129
+SysEvo from clustered2.9.0.4.3_acdc_clustered.rsf to clustered2.9.0.4.4_acdc_clustered.rsf: 100.0
+SysEvo from clustered2.9.0.4.4_acdc_clustered.rsf to clustered2.9.1.4.1_acdc_clustered.rsf: 94.45238776093795
+SysEvo from clustered2.9.1.4.1_acdc_clustered.rsf to clustered2.9.1.4.2_acdc_clustered.rsf: 100.0
+SysEvo from clustered2.9.1.4.2_acdc_clustered.rsf to clustered2.10.0.3.0_acdc_clustered.rsf: 90.2290518991012
+SysEvo from clustered2.10.0.3.0_acdc_clustered.rsf to clustered2.10.1.3.0_acdc_clustered.rsf: 97.14201532115499
+DescriptiveStatistics:
+n: 53
+min: 33.175728920409775
+max: 100.0
+mean: 95.18850980623236
+std dev: 10.491649945086973
+median: 98.74213836477988
+skewness: -4.510550285336892
+kurtosis: 24.128923094776024
+
+
