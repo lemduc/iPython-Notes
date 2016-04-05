@@ -1,0 +1,1 @@
+[["5.13.2", "5.14.0", "Major", 129, ["activemq-amqp/src/main/java/org/apache/activemq/transport/amqp/AmqpFrameParser.java", "activemq-client/src/main/java/org/apache/activemq/openwire/OpenWireFormat.java", "activemq-client/src/main/java/org/apache/activemq/util/IOExceptionSupport.java"]]]
