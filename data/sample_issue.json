@@ -1,0 +1,74 @@
+[
+  {
+    "affect": "0.1.0",
+    "fix": "0.1.1",
+    "type": "Bugs",
+    "priority": "Major",
+    "time": 33423,
+    "commits": [
+      {
+        "files": [
+          {
+            "filename": "org.apache.hadoop.io.NullWritable",
+            "smells": {
+              "bco": 2,
+              "bdc": 3
+            }
+          },
+          {
+            "filename": "org.apache.hadoop.fs.FileSystem",
+            "smells": {
+              "bco": 1,
+              "bdc": 0
+            }
+          }
+        ]
+      },
+      {
+        "files": [
+          {
+            "filename": "org.apache.hadoop.mapred.TextOutputFormat",
+            "smells": {
+              "bco": 2,
+              "bdc": 1
+            }
+          },
+          {
+            "filename": "org.apache.hadoop.dfs.NameNode",
+            "smells": {
+              "bco": 1,
+              "bdc": 1
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "affect": "0.2.0",
+    "fix": "0.3.0",
+    "type": "Bugs",
+    "priority": "Minor",
+    "time": 11123,
+    "commits": [
+      {
+        "files": [
+          {
+            "filename": "org.apache.hadoop.fs.DF",
+            "smells": {
+              "bco": 2,
+              "bdc": 3
+            }
+          },
+          {
+            "filename": "org.apache.hadoop.mapred.RecordReader",
+            "smells": {
+              "bco": 1,
+              "bdc": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
